@@ -1,0 +1,59 @@
+hassan
+Mage
+38 100 210 3 82 11 12 110 0
+4
+Quest Key|Quest|1|0|1|Unlocks areas
+Attack Buff|Potion|1|5|0|Increases attack by 5
+Ancient Relic|Quest|1|0|1|A relic tied to Forest
+Health Potion|Potion|1|30|0|Restores 30 health
+50
+Wolf attacked for 11 damage.
+Attacked Wolf for 13 damage.
+Wolf attacked for 10 damage.
+Attacked Wolf for 14 damage.
+Wolf attacked for 14 damage.
+Attacked Wolf for 12 damage.
+Wolf attacked for 10 damage.
+Attacked Wolf for 16 damage.
+Wolf attacked for 11 damage.
+Attacked Wolf for 12 damage.
+Wolf attacked for 13 damage.
+Attacked Wolf for 16 damage.
+Wolf attacked for 11 damage.
+Attacked Wolf for 14 damage.
+Defeated Wolf, gained 60 XP and 20 gold.
+Entered Forest.
+Started quest with Ancient Relic in Forest.
+Entered Forest.
+Entered Forest.
+Encountered Skeleton (Level 1).
+Attacked Skeleton for 15 damage.
+Skeleton attacked for 11 damage.
+Attacked Skeleton for 16 damage.
+Skeleton attacked for 11 damage.
+Attacked Skeleton for 14 damage.
+Skeleton attacked for 11 damage.
+Attacked Skeleton for 13 damage.
+Skeleton attacked for 13 damage.
+Attacked Skeleton for 13 damage.
+Skeleton attacked for 14 damage.
+hassan used Quest Key on hassan.
+Skeleton attacked for 14 damage.
+Attacked Skeleton for 13 damage.
+Skeleton attacked for 12 damage.
+Attacked Skeleton for 13 damage.
+Skeleton attacked for 12 damage.
+Attacked Skeleton for 15 damage.
+Skeleton attacked for 14 damage.
+Attacked Skeleton for 14 damage.
+Defeated Skeleton, gained 60 XP and 20 gold.
+Found Health Potion.
+Entered Town.
+Entered Forest.
+Encountered Goblin (Level 1).
+hassan equipped attacker.
+Goblin attacked for 16 damage.
+Attacked Goblin for 81 damage.
+Goblin attacked for 15 damage.
+Attacked Goblin for 79 damage.
+Defeated Goblin, gained 60 XP and 20 gold.

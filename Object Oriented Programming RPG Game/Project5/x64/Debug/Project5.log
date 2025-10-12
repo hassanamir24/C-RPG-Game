@@ -1,0 +1,18 @@
+﻿  BattleLog.cpp
+  Character.cpp
+  Enemy.cpp
+E:\semester_02\OOP FINAL PROJECT FINALLLL\Project5\Enemy.cpp(21,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+E:\semester_02\OOP FINAL PROJECT FINALLLL\Project5\Enemy.cpp(22,20): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+E:\semester_02\OOP FINAL PROJECT FINALLLL\Project5\Enemy.cpp(39,35): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+E:\semester_02\OOP FINAL PROJECT FINALLLL\Project5\Enemy.cpp(40,40): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Game.cpp
+  Item.cpp
+  main.cpp
+  MapArea.cpp
+  Player.cpp
+E:\semester_02\OOP FINAL PROJECT FINALLLL\Project5\Player.cpp(168,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\semester_02\OOP FINAL PROJECT FINALLLL\Project5\Player.cpp(172,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\semester_02\OOP FINAL PROJECT FINALLLL\Project5\Player.cpp(338,40): warning C4101: 'e': unreferenced local variable
+  Utilities.cpp
+  Generating Code...
+  Project5.vcxproj -> E:\semester_02\OOP FINAL PROJECT FINALLLL\x64\Debug\Project5.exe
